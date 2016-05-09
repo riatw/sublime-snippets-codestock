@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+.m-box-grid2 {
+    font-size: 0;
+    
+    .grid-col4 {
+        display: inline-block;
+        width: 33.3%;
+        height: 300px;
+        background: gray;
+    }
+}
+	]]></content>
+	<tabTrigger>grid</tabTrigger>
+	<description></description>
+	<scope>source.scss</scope>
+</snippet>
