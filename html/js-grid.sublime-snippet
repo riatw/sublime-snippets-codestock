@@ -3,6 +3,8 @@
 // for example
 function() {
 	hogehoge();
+	fuga();
+	piyo();
 }
 	]]></content>
 	<tabTrigger></tabTrigger>
