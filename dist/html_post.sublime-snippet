@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="m-box-grid">
+    <div class="grid-col4">a</div>
+    <div class="grid-col4">b</div>
+    <div class="grid-col4">c</div>
+</div>
+	]]></content>
+	<tabTrigger>post</tabTrigger>
+	<description></description>
+	<scope>text.html.basic</scope>
+</snippet>
