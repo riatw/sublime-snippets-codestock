@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+.m-box-burger {
+    color: #000;
+}
+	]]></content>
+	<tabTrigger>burgermenu</tabTrigger>
+	<description></description>
+	<scope>source.scss</scope>
+</snippet>

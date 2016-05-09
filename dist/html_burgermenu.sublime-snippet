@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="m-box-burger">
+    
+</div>
+	]]></content>
+	<tabTrigger>burgermenu</tabTrigger>
+	<description></description>
+	<scope>text.html.basic</scope>
+</snippet>
