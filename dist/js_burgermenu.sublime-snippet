@@ -1,8 +1,15 @@
 <snippet>
 	<content><![CDATA[
-function hoge() {
-    
-}]]></content>
+$('.m-box-burger').on('click', function(){
+  $this = $(this);
+
+  if ( $this.hasClass('is-active') ) {
+	  $this.removeClass('is-active');
+  }
+  else {
+	  $this.addClass('is-active');
+  }
+});]]></content>
 	<tabTrigger>burgermenu</tabTrigger>
 	<description></description>
 	<scope>source.js</scope>
