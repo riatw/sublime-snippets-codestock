@@ -8,8 +8,7 @@
   width: 33.3%;
   height: 300px;
 }
-
-	]]></content>
+]]></content>
 	<tabTrigger>grid</tabTrigger>
 	<description></description>
 	<scope>source.scss</scope>

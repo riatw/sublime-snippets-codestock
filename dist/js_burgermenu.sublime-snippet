@@ -2,8 +2,7 @@
 	<content><![CDATA[
 function hoge() {
     
-}
-	]]></content>
+}]]></content>
 	<tabTrigger>burgermenu</tabTrigger>
 	<description></description>
 	<scope>source.js</scope>

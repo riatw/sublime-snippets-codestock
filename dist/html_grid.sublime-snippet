@@ -4,8 +4,7 @@
     <div class="grid-col4">a</div>
     <div class="grid-col4">b</div>
     <div class="grid-col4">c</div>
-</div>
-	]]></content>
+</div>]]></content>
 	<tabTrigger>grid</tabTrigger>
 	<description></description>
 	<scope>text.html.basic</scope>

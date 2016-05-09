@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-test_js
-	]]></content>
+test_js]]></content>
 	<tabTrigger>testcode</tabTrigger>
 	<description></description>
 	<scope>source.js</scope>
