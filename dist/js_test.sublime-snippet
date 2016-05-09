@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+test_js
+	]]></content>
+	<tabTrigger>test</tabTrigger>
+	<description></description>
+	<scope>source.js</scope>
+</snippet>
