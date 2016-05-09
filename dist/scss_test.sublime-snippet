@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-test
-	]]></content>
-	<tabTrigger>test</tabTrigger>
-	<description></description>
-	<scope>source.scss</scope>
-</snippet>
