@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+// for example
+function() {
+	hogehoge();
+}
+	]]></content>
+	<tabTrigger></tabTrigger>
+	<description></description>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="m-box-grid">
+	<div class="grid-col4">
+
+	</div>
+
+	<div class="grid-col4">
+
+	</div>
+
+	<div class="grid-col4">
+
+	</div>
+</div>
+	]]></content>
+	<tabTrigger></tabTrigger>
+	<description></description>
+	<scope>text.html.basic</scope>
+</snippet>

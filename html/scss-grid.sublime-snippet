@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/* this is it */
+.m-box-grid {
+	.grid-col4 {
+		@extend hoge;
+		width: 33.3%;
+	}
+}
+	]]></content>
+	<tabTrigger></tabTrigger>
+	<description></description>
+	<scope>source.scss</scope>
+</snippet>
