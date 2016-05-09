@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-.m-box-grid {
+.m-box-grid2 {
     font-size: 0;
     
     .grid-col4 {
