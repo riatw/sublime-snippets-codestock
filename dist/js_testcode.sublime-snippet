@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-test_scss   
+test_js
 	]]></content>
-	<tabTrigger>test</tabTrigger>
+	<tabTrigger>testcode</tabTrigger>
 	<description></description>
-	<scope>source.scss</scope>
+	<scope>source.js</scope>
 </snippet>
