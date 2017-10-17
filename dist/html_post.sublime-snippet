@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="wrapper">
+	<p class="m-img img01"><img src="http://placehold.it/300"></p>
+	<p class="m-img img02"><img src="http://placehold.it/300"></p>
+</div>]]></content>
+	<tabTrigger>post</tabTrigger>
+	<description></description>
+	<scope>text.html.basic</scope>
+</snippet>

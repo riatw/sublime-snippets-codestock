@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+.wrapper {
+  margin-top: 100px; }
+
+.wrapper .m-img.img02 {
+  margin-left: 150px; }
+]]></content>
+	<tabTrigger>post</tabTrigger>
+	<description></description>
+	<scope>source.scss</scope>
+</snippet>
