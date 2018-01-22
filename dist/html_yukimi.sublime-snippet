@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="button"></div>
+<div class="button"></div>
+<div class="button"></div>]]></content>
+	<tabTrigger>yukimi</tabTrigger>
+	<description></description>
+	<scope>text.html.basic</scope>
+</snippet>
