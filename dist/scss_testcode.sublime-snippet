@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-test_scss]]></content>
-	<tabTrigger>testcode</tabTrigger>
-	<description></description>
-	<scope>source.scss</scope>
-</snippet>
