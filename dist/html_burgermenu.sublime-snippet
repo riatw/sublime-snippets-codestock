@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="m-box-burger">
-<span></span><span></span><span></span>    
-</div>]]></content>
-	<tabTrigger>burgermenu</tabTrigger>
-	<description></description>
-	<scope>text.html.basic</scope>
-</snippet>
